@@ -1,6 +1,6 @@
 version: '3.7'
-volumes: 
-  hdaustriadev:
+# volumes: 
+#   hdaustriadev:
 services:
   devt2:
     build: 
